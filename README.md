@@ -50,11 +50,22 @@ Pour utiliser cette application, suivez ces étapes :
 
 
 
-## Official Documentation
+## Fonctionnalités
 
-Documentation for Fortify can be found on the [Laravel website](https://laravel.com/docs/fortify).
+- Inscription et connexion des utilisateurs.
+- Réinitialisation du mot de passe.
+- Gestion des sessions utilisateur.
+- Protection contre les attaques par force brute et les fuites d'informations.
 
+## Ressources supplémentaires
 
-## License
+- [Documentation Laravel Fortify](https://laravel.com/docs/fortify)
+- [Documentation Laravel](https://laravel.com/docs)
 
-Laravel Fortify is open-sourced software licensed under the [MIT license](LICENSE.md).
+## Auteur
+
+Ce projet a été développé par [AMROUSS OMAR](https://github.com/omar-amrouss).
+
+## Licence
+
+Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
