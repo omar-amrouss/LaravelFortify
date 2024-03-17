@@ -68,4 +68,4 @@ Ce projet a été développé par [AMROUSS OMAR](https://github.com/omar-amrouss
 
 ## Licence
 
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
+Ce projet est sous licence MIT. Voir le fichier [LICENSE](https://github.com/laravel/fortify/blob/1.x/LICENSE.md) pour plus de détails.
