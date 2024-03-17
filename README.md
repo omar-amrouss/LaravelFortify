@@ -16,6 +16,20 @@
     </a>
 </p>
 
+# Installation de l'application Laravel Fortify Authentication
+
+Ce projet est un exemple d'application Laravel utilisant Laravel Fortify pour l'authentification des utilisateurs.
+
+## Configuration
+
+Avant de démarrer l'application, assurez-vous d'avoir configuré votre environnement comme suit :
+
+1. Assurez-vous d'avoir PHP (>= 7.3) et Composer installés localement.
+2. Configurez votre base de données dans le fichier `.env` en renseignant les informations appropriées.
+3. Exécutez `composer install` pour installer les dépendances.
+4. Exécutez `php artisan migrate` pour migrer la base de données.
+5. Facultatif : exécutez `php artisan db:seed` pour remplir la base de données avec des données de test.
+
 ## Introduction
 
 Laravel Fortify is a frontend agnostic authentication backend for Laravel. Fortify powers the registration, authentication, and two-factor authentication features of [Laravel Jetstream](https://github.com/laravel/jetstream).
