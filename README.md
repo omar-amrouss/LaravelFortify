@@ -36,12 +36,17 @@ Pour utiliser cette application, suivez ces étapes :
 
 1. Lancez le serveur Laravel en exécutant `php artisan serve`.
 2. Accédez à l'application dans votre navigateur à l'adresse `http://localhost:8000`.
+   
    ![image](https://github.com/omar-amrouss/LaravelFortity/assets/133509604/c72431be-9e79-4dc4-9396-4e3ebf812f1f)
-3. Vous pouvez vous inscrire en tant qu'utilisateur en cliquant sur le bouton 'Register'
+3. Vous pouvez vous inscrire en tant qu'utilisateur en cliquant sur le bouton "Register"
+   
    ![image](https://github.com/omar-amrouss/LaravelFortity/assets/133509604/97b90e99-e1b3-4af0-b79b-1ff630a368f1)
-4. Vous pouvez se connecter en utilisant votre compte en cliquant sur le bouton 'Login'
+4. Vous pouvez se connecter en utilisant votre compte en cliquant sur le bouton "Login"
+   
    ![image](https://github.com/omar-amrouss/LaravelFortity/assets/133509604/c027483b-eaa8-442b-819b-e52fc100aec9)
+5. Si vous perder votre mot de passe, il suffit de cliquer sur `Forgot password?`, pour récupérer vorte compte.
 
+   ![image](https://github.com/omar-amrouss/LaravelFortity/assets/133509604/cafca4b7-4208-4485-9f1b-07ba653468f5)
 
 
 
