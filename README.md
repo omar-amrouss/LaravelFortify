@@ -30,25 +30,25 @@ Avant de démarrer l'application, assurez-vous d'avoir configuré votre environn
 4. Exécutez `php artisan migrate` pour migrer la base de données.
 5. Facultatif : exécutez `php artisan db:seed` pour remplir la base de données avec des données de test.
 
-## Introduction
+## Utilisation
 
-Laravel Fortify is a frontend agnostic authentication backend for Laravel. Fortify powers the registration, authentication, and two-factor authentication features of [Laravel Jetstream](https://github.com/laravel/jetstream).
+Pour utiliser cette application, suivez ces étapes :
+
+1. Lancez le serveur Laravel en exécutant `php artisan serve`.
+2. Accédez à l'application dans votre navigateur à l'adresse `http://localhost:8000`.
+   ![image](https://github.com/omar-amrouss/LaravelFortity/assets/133509604/c72431be-9e79-4dc4-9396-4e3ebf812f1f)
+3. Vous pouvez vous inscrire en tant qu'utilisateur en cliquant sur le bouton 'Register'
+   ![image](https://github.com/omar-amrouss/LaravelFortity/assets/133509604/97b90e99-e1b3-4af0-b79b-1ff630a368f1)
+4. Vous pouvez se connecter en utilisant votre compte en cliquant sur le bouton 'Login'
+   ![image](https://github.com/omar-amrouss/LaravelFortity/assets/133509604/c027483b-eaa8-442b-819b-e52fc100aec9)
+
+
+
 
 ## Official Documentation
 
 Documentation for Fortify can be found on the [Laravel website](https://laravel.com/docs/fortify).
 
-## Contributing
-
-Thank you for considering contributing to Fortify! You can read the contribution guide [here](.github/CONTRIBUTING.md).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-Please review [our security policy](https://github.com/laravel/fortify/security/policy) on how to report security vulnerabilities.
 
 ## License
 
