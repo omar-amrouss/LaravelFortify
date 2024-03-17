@@ -1,4 +1,5 @@
-<p align="center"><img src="/art/logo.svg" alt="Logo Laravel Fortify"></p>
+![image](https://github.com/omar-amrouss/LaravelFortity/assets/133509604/a946eb56-e5e8-495f-ab80-bd5f0c18a4d3)
+
 
 <p align="center">
     <a href="https://github.com/laravel/fortify/actions">
